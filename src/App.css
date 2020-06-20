@@ -1,3 +1,35 @@
-.App {
+/* .App {
   text-align: center;
+} */
+
+/* nav {
+  background-color: red;
+  display: flex;
+  /* flex-direction: column; */
+/* flex-wrap: wrap; */
+/* flex-flow: row; */
+/* } */
+
+.navContainer {
+  display: flex;
+  background-color: green;
+}
+/*
+
+.navButtons {
+  background-color: rgb(99, 64, 61);
+  display: flex;
+  flex-wrap: wrap; 
+flex-direction: row;
+flex-flow: row; }*/
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+  text-decoration: none;
 }
